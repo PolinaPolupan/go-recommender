@@ -11,7 +11,7 @@ interaction history, and returns the top recommendations over HTTP.
 
 ```text
 GET /recommendations?user_id=42&limit=2
-
+```
 ## Concurrency experiment
 
 Three approaches were compared for scoring 10,000 items:
