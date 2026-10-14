@@ -1,0 +1,12 @@
+# Binaries
+/go-recommender
+
+# Test binaries
+*.test
+
+# Coverage
+*.out
+
+# IDE
+.idea/
+.vscode/
